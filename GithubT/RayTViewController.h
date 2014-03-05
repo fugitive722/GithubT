@@ -10,4 +10,6 @@
 
 @interface RayTViewController : UIViewController
 
+- (IBAction)clickTheButton:(id)sender;
+
 @end
